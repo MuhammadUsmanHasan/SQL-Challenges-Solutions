@@ -1,1 +1,5 @@
 
+# Author: Muhammad Usman Hasan
+SELECT NAME FROM EMPLOYEE ORDER BY NAME ASC;
+
+
