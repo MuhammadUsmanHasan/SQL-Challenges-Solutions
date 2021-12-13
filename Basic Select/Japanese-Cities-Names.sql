@@ -1,0 +1,2 @@
+# Author: Muhammad Usman Hasan
+SELECT NAME FROM CITY WHERE COUNTRYCODE ='JPN'
