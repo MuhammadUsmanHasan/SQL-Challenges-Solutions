@@ -1,0 +1,2 @@
+# Author: Muhammad Usman Hasan
+SELECT COUNT(CITY) - COUNT(DISTINCT CITY) FROM STATION;
