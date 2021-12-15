@@ -1,2 +1,2 @@
-#Muhammad Usman Hasan
+#Author: Muhammad Usman Hasan
 SELECT COUNT(NAME) FROM CITY WHERE POPULATION>100000;
