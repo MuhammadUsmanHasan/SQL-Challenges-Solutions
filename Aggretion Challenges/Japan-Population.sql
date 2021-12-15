@@ -1,2 +1,2 @@
-#Muhammad Usman Hasan
+#Author:Muhammad Usman Hasan
 SELECT SUM(POPULATION) FROM CITY WHERE COUNTRYCODE='JPN';
