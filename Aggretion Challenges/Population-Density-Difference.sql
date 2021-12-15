@@ -1,0 +1,2 @@
+#Author: Muhammad Usman Hasan
+SELECT MAX(POPULATION) - MIN(POPULATION) FROM CITY;
