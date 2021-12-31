@@ -1,4 +1,4 @@
-
+---https://www.youtube.com/watch?v=756bY8z-B0c&t=2s
 --- this solution does not work on hacker rank server, but works on sqlite
 SELECT w.id, wp.age, w.coins_needed, w.power FROM WAND w JOIN Wands_Property  wp ON 
 w.code = wp.code
