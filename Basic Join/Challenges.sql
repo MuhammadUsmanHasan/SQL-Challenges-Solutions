@@ -55,7 +55,23 @@ SELECT H1.hacker_id, H1.name, Count(C2.challenge_id) as d_counts
 FROM Hackers H1 JOIN Challenges C2 
 on H1.hacker_id = C2.hacker_id
 Group by H1.hacker_id, H1.name
-) temp_table
+) AS temp_table
 	group by d_counts 
 	having count(d_counts) =1)	
 order by total_count desc, H.hacker_id;
+
+
+
+/*
+Some Notes:
+1) this occus if hacker_id or name is missing from the group by clause 
+
+ERROR 1055 (42000) at line 5: Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 
+'run_bhounkcrnho.H.name' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+
+https://stackoverflow.com/questions/41887460/select-list-is-not-in-group-by-clause-and-contains-nonaggregated-column-inc
+
+2) All nested tables must have a alias, ie AS temp_table , seen above
+
+https://stackoverflow.com/questions/1888779/what-is-the-error-every-derived-table-must-have-its-own-alias-in-mysql
+*/
