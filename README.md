@@ -78,7 +78,7 @@ The solutions to all the SQL challenges from hackerrank executed on MySQL enviro
 |5|[Top Competitors](https://www.hackerrank.com/challenges/full-score?isFullScreen=true)|[SQL](https://github.com/MuhammadUsmanHasan/SQL-Challenges-Solutions/blob/main/Basic%20Join/Top-Competitors.sql)
 |6|[Olivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands?isFullScreen=true)|[SQL](https://github.com/MuhammadUsmanHasan/SQL-Challenges-Solutions/blob/main/Basic%20Join/Ollivander's-Inventory.sql)
 |7|[Challenges](https://www.hackerrank.com/challenges/challenges?isFullScreen=true)|[SQL](https://github.com/MuhammadUsmanHasan/SQL-Challenges-Solutions/blob/main/Basic%20Join/Challenges.sql)
-|8|[Contest Leaderboard](https://github.com/MuhammadUsmanHasan/SQL-Challenges-Solutions/blob/main/Basic%20Join/Contest-Leaderboard.sql)
+|8|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard?isFullScreen=true)|[SQL](https://github.com/MuhammadUsmanHasan/SQL-Challenges-Solutions/blob/main/Basic%20Join/Contest-Leaderboard.sql)
 
 
 
