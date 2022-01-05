@@ -75,7 +75,15 @@ The solutions to all the SQL challenges from hackerrank executed on MySQL enviro
 |2|[African Cities](https://www.hackerrank.com/challenges/african-cities?isFullScreen=true)|[SQL](https://github.com/MuhammadUsmanHasan/SQL-Challenges-Solutions/blob/main/Basic%20Join/African-Cities.sql)
 |3|[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent?isFullScreen=true)|[SQL](https://github.com/MuhammadUsmanHasan/SQL-Challenges-Solutions/blob/main/Basic%20Join/Average-population-of-each-continent.sql)
 |4|[The Report](https://www.hackerrank.com/challenges/the-report?isFullScreen=true)|[SQL](https://github.com/MuhammadUsmanHasan/SQL-Challenges-Solutions/blob/main/Basic%20Join/The-Report.sql)
-|5|[Top Competitors](https://www.hackerrank.com/challenges/full-score?isFullScreen=true)|[SQL]()
-|6|[Olivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands?isFullScreen=true)|[SQL]()
-|7|[Challenges](https://www.hackerrank.com/challenges/challenges?isFullScreen=true)|[SQL]()
-|8|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard?isFullScreen=true)|[SQL]()
+|5|[Top Competitors](https://www.hackerrank.com/challenges/full-score?isFullScreen=true)|[SQL](https://github.com/MuhammadUsmanHasan/SQL-Challenges-Solutions/blob/main/Basic%20Join/Top-Competitors.sql)
+|6|[Olivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands?isFullScreen=true)|[SQL](https://github.com/MuhammadUsmanHasan/SQL-Challenges-Solutions/blob/main/Basic%20Join/Ollivander's-Inventory.sql)
+|7|[Challenges](https://www.hackerrank.com/challenges/challenges?isFullScreen=true)|[SQL](https://github.com/MuhammadUsmanHasan/SQL-Challenges-Solutions/blob/main/Basic%20Join/Challenges.sql)
+|8|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard?isFullScreen=true)|[SQL](https://github.com/MuhammadUsmanHasan/SQL-Challenges-Solutions/blob/main/Basic%20Join/Challenges.sql)
+
+
+
+
+### Resources
+[SQL CheatSheet](https://github.com/MuhammadUsmanHasan/SQL-Challenges-Solutions/blob/main/SQL-Cheat-Sheet-websitesetup.pdf)
+<br>
+[Median](https://stackoverflow.com/questions/1291152/simple-way-to-calculate-median-with-mysql/7263925#7263925)
